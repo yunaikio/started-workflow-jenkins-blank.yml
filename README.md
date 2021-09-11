@@ -1,2 +1,2 @@
-# starter-workflow-jenkins-blank.yml
+# started-workflow-jenkins-blank.yml
 Action
